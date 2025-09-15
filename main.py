@@ -27,3 +27,8 @@ def cuenta_atras(num):
     print("Fin de la función", num)
 
 cuenta_atras(5)
+
+#-----------------------------------------------------------------------------------------
+#TEMA 2:PROGRAMACION ORIENTADA A OBJETOS
+#Objeto: es algo que se puede cambiar, estructurar y es definido por el usuario.
+#Por cada clase creada con la instruccion "Class" se crea un fichero
